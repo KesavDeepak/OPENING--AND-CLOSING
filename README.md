@@ -59,12 +59,14 @@ cv2_imshow(img_close)
 ## Output:
 
 ### Display the input Image
-<img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/8f758b77-2682-4aee-953f-017592118cbb" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/7f644a9a-d9bf-45b5-8368-7009e8e04b1b" />
+
 
 
 
 ### Display the result of Opening
-<img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/d59dba1c-a9f0-4524-8bad-48f7b81a722f" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/74a5b44c-77e6-4989-bcb3-bf36d9f093c9" />
+
 
 
 ### Display the result of Closing
